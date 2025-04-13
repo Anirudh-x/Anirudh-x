@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Passionate Full-Stack Developer | Android Developer | Penetration Tester</p>
+<p align="left">Skilled Full-Stack Developer | Android Developer | Penetration Tester</p>
 
 ###
 
